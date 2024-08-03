@@ -282,10 +282,10 @@ function getkey()
 end
 
 joinDiscord.MouseButton1Click:Connect(function()
-setclipboard("https://discord.com/invite/uwkrsk")
+setclipboard("https://discord.com/invite/rZKkuzFTsh")
         Notify({
         Description = "Copied Key Link to Clipboard.";
-        Title = "Hebi Hub Gateway";
+        Title = "MeoMeo X Hub Gateway";
         Duration = 5;
         });
 end)
