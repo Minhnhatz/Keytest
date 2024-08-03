@@ -109,9 +109,9 @@ getKey.BackgroundTransparency = 0.700
 getKey.Position = UDim2.new(0.00527485646, 0, 0.0200845189, 0)
 getKey.Size = UDim2.new(0.316833377, 0, 0.995384812, 0)
 getKey.Font = Enum.Font.Arial
-getKey.Text = "Get Key"
+getKey.Text = "Don't Click"
 getKey.TextColor3 = Color3.fromRGB(255, 255, 255)
-getKey.TextSize = 20.000
+getKey.TextSize = 10.000
 
 UICorner_4.Parent = getKey
 
@@ -166,7 +166,7 @@ logo.BackgroundTransparency = 1.000
 logo.BorderSizePixel = 0
 logo.Position = UDim2.new(0.0357252173, 0, 0.112734579, 0)
 logo.Size = UDim2.new(0.195282057, 0, 0.684913754, 0)
-logo.Image = "http://www.roblox.com/asset/?id="
+logo.Image = "http://www.roblox.com/asset/?id=18587394471"
 
 UIAspectRatioConstraint_10.Parent = logo
 
